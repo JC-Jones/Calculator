@@ -22,13 +22,3 @@ Addition: Perform addition of two numbers.<br/>
 Subtraction: Perform subtraction of two numbers.<br/>
 Multiplication: Perform multiplication of two numbers.<br/>
 Division: Perform division of two numbers.<br/>
-
-Contributions to the Calculator project are welcome. If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes in the branch.
-4. Commit your changes with descriptive commit messages.
-5. Push your branch to your forked repository.
-6. Submit a pull request to the main repository.
-
